@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: bgextensions <bgextensions@bgextensions.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in echo
+#: bp-stat-bar.php:285
+msgid "Aligment:"
+msgstr ""
+
+#. Text in function
+#: bp-stat-bar.php:161
+msgid "Comments"
+msgstr "Коментари"
+
+#. Text in function
+#: bp-stat-bar.php:161
+msgid "Community"
+msgstr "Общност"
+
+#. Text in function
+#: bp-stat-bar.php:161
+msgid "Discussions"
+msgstr "Дискусии"
+
+#. Text in function
+#: bp-stat-bar.php:161
+msgid "Forums"
+msgstr "Форуми"
+
+#. Text in echo
+#: bp-stat-bar.php:328
+msgid "Give credit to plugin author?"
+msgstr ""
+
+#. Text in function
+#: bp-stat-bar.php:161
+msgid "Groups"
+msgstr "Групи"
+
+#. Text in echo
+#: bp-stat-bar.php:159
+msgid "Hello"
+msgstr "Здравейте"
+
+#. Text in echo
+#: bp-stat-bar.php:287
+msgid "Horizontal"
+msgstr ""
+
+#. Text in echo
+#: bp-stat-bar.php:324
+msgid "Logged in avatar size in px"
+msgstr ""
+
+#. Text in function
+#: bp-stat-bar.php:161
+msgid "Members"
+msgstr "Потребители"
+
+#. Text in function
+#: bp-stat-bar.php:161
+msgid "Posts"
+msgstr "Публикации"
+
+#. Text in echo
+#: bp-stat-bar.php:308
+msgid "Show comments number?"
+msgstr ""
+
+#. Text in echo
+#: bp-stat-bar.php:312
+msgid "Show forums number?"
+msgstr ""
+
+#. Text in echo
+#: bp-stat-bar.php:316
+msgid "Show greeting?"
+msgstr ""
+
+#. Text in echo
+#: bp-stat-bar.php:300
+msgid "Show groups number?"
+msgstr ""
+
+#. Text in echo
+#: bp-stat-bar.php:320
+msgid "Show logged in user avatar?"
+msgstr ""
+
+#. Text in echo
+#: bp-stat-bar.php:304
+msgid "Show posts number?"
+msgstr ""
+
+#. Text in echo
+#: bp-stat-bar.php:292
+msgid "Show sites number?"
+msgstr ""
+
+#. Text in echo
+#: bp-stat-bar.php:296
+msgid "Show users number?"
+msgstr ""
+
+#. Text in function
+#: bp-stat-bar.php:161
+msgid "Sites"
+msgstr "Сайтове"
+
+#. Text in echo
+#: bp-stat-bar.php:281
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: bp-stat-bar.php:161
+msgid "Topics"
+msgstr "Теми"
+
+#. Text in echo
+#: bp-stat-bar.php:288
+msgid "Vertical"
+msgstr ""
+
+#. Text in function
+#: bp-stat-bar.php:161
+msgid "points"
+msgstr "точки"
+

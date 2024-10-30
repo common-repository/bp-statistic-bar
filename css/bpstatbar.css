@@ -1,0 +1,44 @@
+/*
+Default CSS Styles for the bprft_widget plug-in
+Version 1.0.0
+*/
+table#bpstatbar {
+	width:100% !important;
+	background-color:#FFFFFF;
+}
+table#bpstatbar td.bpstatbar-label {
+	background: url(../images/extra-bck.jpg);
+	background-repeat: repeat-x;
+	font-size:large;
+	padding:5px;
+	line-height: 1.5em !important;
+	border: none;
+}
+table#bpstatbar td.bpstatbar-h-label {
+	background: url(../images/extra-bck.jpg);
+	background-repeat: repeat-x;
+	font-size:large;
+	padding:5px;
+	line-height: 1.5em !important;
+	border: none;
+	text-align:center;
+}
+table#bpstatbar td.bpstatbar-value {
+	font-size:large;
+	padding:5px;
+	text-align:right;
+	line-height: 1.5em !important;
+	border-bottom: 1px #E0E0E0 solid;
+}
+table#bpstatbar td.bpstat-bar-head {
+	font-size:large;
+	font-weight:bold;
+	padding:5px;
+	text-align:center;
+	line-height: 1.5em !important;
+	border-bottom: 1px #E0E0E0 solid;
+	background: url(../images/extra-bck.jpg);	
+}
+.authorcredit {
+	font-size:small;
+}
